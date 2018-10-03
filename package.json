@@ -1,0 +1,12 @@
+{
+  "name": "moringa-pytest",
+  "version": "1.0.0",
+  "main": "Actions.js",
+  "repository": "https://github.com/dsimic/moringa-pytest.git",
+  "author": "guillercp93 <guillercp93@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sqlite3": "^4.0.2"
+  }
+}
